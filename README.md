@@ -98,7 +98,7 @@ The `show_unique_values` function allows you to analyze columns with fewer than 
 - `Handle_Duplicates.py`: Module for handling duplicate values.
 - `Handle_Missing.py`: Module for handling missing values.
 - `Handle_Outliers.py`: Module for handling outliers.
-- `Columns_Operations.py`: Module for renaming, removing, and converting column types.
+- `Column_Operations.py`: Module for renaming, removing, and converting column types.
 - `Visualizations.py`: Module for data visualization.
 - `Handle_Categorical.py`: Module for handling categorical data.
 - `Show_Unique.py`: Module for showing unique values in columns.
@@ -112,10 +112,6 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
