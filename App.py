@@ -9,7 +9,7 @@ import subprocess
 from Handle_Duplicates import handle_duplicates
 from Handle_Missing import handle_missing_values
 from Handle_Outliers import handle_outliers
-from Columns_Operations import rename_columns, remove_columns, convert_column_types
+from Column_Operations import rename_columns, remove_columns, convert_column_types
 from Visualizations import show_correlation_analysis, visualize
 from Handle_Categorical import handle_categorical
 from Show_Unique import show_unique_values
