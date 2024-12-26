@@ -2,6 +2,9 @@
 
 Welcome to the Data Insights Explorer! This project allows you to upload datasets and interact with them through natural language queries using an AI-powered assistant Using RAG!. It provides various tools for data preprocessing, exploration, and visualization.
 
+# Demo Video
+[![Demo Video](https://github.com/emansa3ed/data-insights-explorer/blob/main/DataQuality.mp4)
+
 ## Features
 
 - **Upload and Preview Data**: Supports CSV and Excel files with automatic data validation.
@@ -12,7 +15,7 @@ Welcome to the Data Insights Explorer! This project allows you to upload dataset
   - Analyze columns with unique values and visualize their distributions.
 - **Data Visualization**: Generate various charts and perform correlation analysis.
 - **Download Processed Data**: Download the modified dataset after processing.
-- [video](https://github.com/emansa3ed/data-insights-explorer/blob/main/DataQuality.mp4) for more details.
+
 ## Installation
 
 To run this project, you need to have Python and the required libraries installed. Follow these steps to set up the project:
