@@ -1,4 +1,4 @@
-# Data Insights Explorer
+# Data Insights Explorer Project Using RAG!
 
 Welcome to the Data Insights Explorer! This project allows you to upload datasets and interact with them through natural language queries using an AI-powered assistant Using RAG!. It provides various tools for data preprocessing, exploration, and visualization.
 
