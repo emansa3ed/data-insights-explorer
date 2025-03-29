@@ -3,7 +3,7 @@
 Welcome to the Data Insights Explorer! This project allows you to upload datasets and interact with them through natural language queries using an AI-powered assistant Using RAG!. It provides various tools for data preprocessing, exploration, and visualization.
 
 # Demo Video
-
+https://youtu.be/hA9Rk0t9WhQ?si=N6KTp9CN8C38mPsT
 [![Demo Video](https://github.com/emansa3ed/data-insights-explorer/blob/main/Screenshot%202024-12-26%20200919.png)](https://github.com/emansa3ed/data-insights-explorer/blob/main/DataQuality.mp4)
 
 
